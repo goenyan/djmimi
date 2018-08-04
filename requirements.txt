@@ -3,12 +3,3 @@ pip
 youtube_dl
 colorlog
 cffi --only-binary all; sys_platform == 'win32'
-discord
-asyncio
-Pymoe
-requests
-simplejson
-apiai
-bs4
-gspread
-oauth2client
