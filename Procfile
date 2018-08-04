@@ -1,2 +1,2 @@
-worker python update.py
-worker python run.py
+worker: python update.py
+worker: python run.py
