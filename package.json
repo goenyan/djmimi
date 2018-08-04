@@ -1,6 +1,20 @@
 {
-  "name": "DJ Mimi",
-  "description": "DJ Mimi",
+  "name": "DJ Mimi Update",
+  "description": "DJ Mimi Update",
+  "version": "0.0.0",
+  "main": "update.py",
+  "scripts": {
+    "start": "python update.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
+
+{
+  "name": "DJ Mimi Start",
+  "description": "DJ Mimi Start",
   "version": "0.0.0",
   "main": "run.py",
   "scripts": {
