@@ -2,9 +2,9 @@
   "name": "DJ Mimi",
   "description": "DJ Mimi",
   "version": "0.0.0",
-  "main": "bot.py",
+  "main": "run.py",
   "scripts": {
-    "start": "python bot.py"
+    "start": "python run.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
