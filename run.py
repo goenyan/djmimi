@@ -1,5 +1,9 @@
 from __future__ import print_function
 
+import discord
+from discord.ext import commands
+from discord.ext.commands import Bot
+import asyncio
 import os
 import sys
 import time
